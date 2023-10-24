@@ -7,7 +7,7 @@ La estela de Mesa es el (casi) único texto que se conserva en lengua moabita, u
 En este trabajo se analizarán las inscripciones (en alfabeto fenicio), sus frecuencias, raíces, etc.
 Si se traduce, se puede añadir al currículum la línea de C2 en esta lengua, dado que es lo único que se puede leer en moabita en la actualidad.
 
-![Imagen|50](./img/estela_mesa.jfif)
+![Imagen|50](./src/img/estela_mesa.jfif)
 
 ### HIPÓTESIS
 
